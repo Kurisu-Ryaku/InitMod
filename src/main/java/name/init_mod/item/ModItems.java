@@ -9,6 +9,8 @@ import net.minecraft.util.Identifier;
 //这是一个注册物品的辅助类
 public class ModItems {
 
+    public static final String a = "asd";
+
     //向Fabric注册新物品
     private static Item registerItem (String name, Item item) {
         return Registry.register(Registries.ITEM, new Identifier(InitMod.MOD_ID, name), item);
