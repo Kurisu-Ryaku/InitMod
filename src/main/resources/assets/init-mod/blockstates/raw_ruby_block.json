@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "init-mod:block/raw_ruby_block"
+    }
+  }
+}
