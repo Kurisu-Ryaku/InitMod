@@ -2,5 +2,8 @@
     "item.init-mod.thigh": "Thigh",
     "item.init-mod.ruby": "Ruby",
 
+    "block.init-mod.ruby_block": "Block of Ruby",
+    "block.init-mod.raw_ruby_block": "Block of RAW Ruby",
+
     "itemgroup_ruby": "Init Group"
 }

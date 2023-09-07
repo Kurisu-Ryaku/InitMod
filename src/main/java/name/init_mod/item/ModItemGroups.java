@@ -1,6 +1,7 @@
 package name.init_mod.item;
 
 import name.init_mod.InitMod;
+import name.init_mod.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -21,6 +22,8 @@ public class ModItemGroups {
                         entries.add(ModItems.RUBY);
                         entries.add(ModItems.THIGH);
                         entries.add(Items.LADDER);
+                        entries.add(ModBlocks.RUBY_BLOCK);
+                        entries.add(ModBlocks.RAW_RUBY_BLOCK);
                     }).build());
 
     public static void registerItemGroup() {

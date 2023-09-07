@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "init-mod:block/ruby_block"
+  }
+}

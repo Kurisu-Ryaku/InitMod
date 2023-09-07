@@ -1,5 +1,6 @@
 package name.init_mod;
 
+import name.init_mod.block.ModBlocks;
 import name.init_mod.item.ModItemGroups;
 import name.init_mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -21,6 +22,8 @@ public class InitMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItemGroups.registerItemGroup();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

@@ -2,5 +2,8 @@
   "item.init-mod.thigh": "鸡腿",
   "item.init-mod.ruby": "红宝石",
 
+  "block.init-mod.ruby_block": "红宝石块",
+  "block.init-mod.raw_ruby_block": "生红宝石块",
+
   "itemgroup_ruby": "初生"
 }
