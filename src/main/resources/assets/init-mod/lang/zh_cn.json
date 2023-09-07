@@ -1,4 +1,6 @@
 {
   "item.init-mod.thigh": "鸡腿",
-  "item.init-mod.ruby": "红宝石"
+  "item.init-mod.ruby": "红宝石",
+
+  "itemgroup_ruby": "初生"
 }

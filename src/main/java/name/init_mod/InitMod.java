@@ -1,5 +1,6 @@
 package name.init_mod;
 
+import name.init_mod.item.ModItemGroups;
 import name.init_mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -19,7 +20,7 @@ public class InitMod implements ModInitializer {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
-
+		ModItemGroups.registerItemGroup();
 		ModItems.registerModItems();
 	}
 }

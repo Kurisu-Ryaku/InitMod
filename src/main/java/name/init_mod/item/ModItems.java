@@ -32,6 +32,6 @@ public class ModItems {
     public static void registerModItems(){
         InitMod.LOGGER.info("Registering Mod Items for" + InitMod.MOD_ID);
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToItemIngredientItemGroup);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.FOOD_AND_DRINK).register(ModItems::addItemsToItemIngredientItemGroup);
     }
 }

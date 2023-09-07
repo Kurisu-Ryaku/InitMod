@@ -1,4 +1,6 @@
 {
     "item.init-mod.thigh": "Thigh",
-    "item.init-mod.ruby": "Ruby"
+    "item.init-mod.ruby": "Ruby",
+
+    "itemgroup_ruby": "Init Group"
 }
