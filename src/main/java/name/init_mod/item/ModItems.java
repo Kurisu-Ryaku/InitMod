@@ -17,11 +17,13 @@ public class ModItems {
     //在这里声明物品
     public static final Item THIGH = registerItem("thigh", new Item(new FabricItemSettings()));
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
+        public static final Item RAW_RUBY = registerItem("raw_ruby", new Item(new FabricItemSettings()));
 
     //将物品添加到物品分类组
     private static void addItemsToItemIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(THIGH);
         entries.add(RUBY);
+        entries.add(RAW_RUBY);
     }
 
     //向Fabric注册新物品

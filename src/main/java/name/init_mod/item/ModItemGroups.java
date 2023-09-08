@@ -20,8 +20,8 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.RUBY)).entries((displayContext, entries) -> {
                         //將物品添加到自定義物品分類中
                         entries.add(ModItems.RUBY);
+                        entries.add(ModItems.RAW_RUBY);
                         entries.add(ModItems.THIGH);
-                        entries.add(Items.LADDER);
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
                     }).build());
