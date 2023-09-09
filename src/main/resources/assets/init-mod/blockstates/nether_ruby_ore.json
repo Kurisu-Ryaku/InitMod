@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "init-mod:block/nether_ruby_ore"
+    }
+  }
+}

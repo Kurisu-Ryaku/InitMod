@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "init-mod:ruby_block",
+    "init-mod:end_ruby_ore"
+  ]
+}

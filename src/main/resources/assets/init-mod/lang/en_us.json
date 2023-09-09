@@ -6,5 +6,10 @@
     "block.init-mod.ruby_block": "Block of Ruby",
     "block.init-mod.raw_ruby_block": "Block of RAW Ruby",
 
-    "itemgroup_ruby": "Init Group"
+    "block.init-mod.ruby_ore": "Ruby Ore",
+    "block.init-mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+    "block.init-mod.end_ruby_ore": "End Ruby Ore",
+    "block.init-mod.nether_ruby_ore": "Nether Ruby Ore",
+
+    "itemgroup_ruby": "Init Mod Group"
 }

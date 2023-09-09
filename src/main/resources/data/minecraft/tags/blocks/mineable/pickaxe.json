@@ -1,0 +1,11 @@
+{
+  "replace": "false",
+  "values": [
+    "init-mod:ruby_block",
+    "init-mod:raw_ruby_block",
+    "init-mod:ruby_ore",
+    "init-mod:deepslate_ruby_ore",
+    "init-mod:nether_ruby_ore",
+    "init-mod:end_ruby_ore"
+  ]
+}
