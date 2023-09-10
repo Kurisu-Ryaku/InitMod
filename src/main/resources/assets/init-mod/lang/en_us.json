@@ -5,6 +5,8 @@
     "item.init-mod.ruby": "Ruby",
     "item.init-mod.raw_ruby": "RAW Ruby",
 
+    "block.init-mod.sound_block": "Sound Block",
+
     "block.init-mod.ruby_block": "Block of Ruby",
     "block.init-mod.raw_ruby_block": "Block of RAW Ruby",
 
