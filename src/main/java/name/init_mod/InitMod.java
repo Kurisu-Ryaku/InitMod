@@ -8,6 +8,8 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import static name.init_mod.item.FuelItemRegister.registerModFuelItems;
+
 public class InitMod implements ModInitializer {
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
@@ -25,5 +27,6 @@ public class InitMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		registerModFuelItems();
 	}
 }

@@ -1,19 +1,33 @@
 {
     "item.init-mod.thigh": "Thigh",
+
+    "item.init-mod.tomato": "Tomato",
+    "item.init-mod.preserved_egg": "Preserved Egg",
+
+    "item.init-mod.Coal_Briquette": "Coal Briquette",
+
     "item.init-mod.metal_detector": "Metal Detector",
 
     "item.init-mod.ruby": "Ruby",
-    "item.init-mod.raw_ruby": "RAW Ruby",
+    "item.init-mod.raw_ruby": "Raw Ruby",
 
     "block.init-mod.sound_block": "Sound Block",
 
     "block.init-mod.ruby_block": "Block of Ruby",
-    "block.init-mod.raw_ruby_block": "Block of RAW Ruby",
+    "block.init-mod.raw_ruby_block": "Block of Raw Ruby",
 
     "block.init-mod.ruby_ore": "Ruby Ore",
     "block.init-mod.deepslate_ruby_ore": "Deepslate Ruby Ore",
     "block.init-mod.end_ruby_ore": "End Ruby Ore",
     "block.init-mod.nether_ruby_ore": "Nether Ruby Ore",
 
-    "itemgroup_ruby": "Init Mod Group"
+    "itemgroup_ruby": "Init Mod Group",
+
+    "tooltip.init_mod.metal_detector.tooltip": "Help you find valuables underground",
+
+    "msg.metal_detector.when_found_former": "METAL DETECTED ",
+    "msg.metal_detector.when_found_latter": " BLOCKS UNDER!",
+    "msg.metal_detector.not_found_former": "NOT FOUND ANY METAL WITHIN ",
+    "msg.metal_detector.not_found_latter": " BLOCKS UNDERGROUND!",
+    "msg.tooltip.sound_block": "Make a sweet sound when right-clicked"
 }
